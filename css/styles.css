@@ -100,7 +100,7 @@ h2{
 .card{
   padding:3%;
 }
-@media (max-width: 486px){
+@media (max-width: 1028px){
   #title{
     text-align:center;
   }
